@@ -3,7 +3,7 @@ package codegen
 import (
 	"fmt"
 
-	"github.com/atombender/go-jsonschema/pkg/schemas"
+	"github.com/gonzaloserrano/go-jsonschema/pkg/schemas"
 )
 
 func WrapTypeInPointer(t Type) Type {

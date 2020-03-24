@@ -12,8 +12,8 @@ import (
 
 	"github.com/sanity-io/litter"
 
-	"github.com/atombender/go-jsonschema/pkg/codegen"
-	"github.com/atombender/go-jsonschema/pkg/schemas"
+	"github.com/gonzaloserrano/go-jsonschema/pkg/codegen"
+	"github.com/gonzaloserrano/go-jsonschema/pkg/schemas"
 )
 
 type Config struct {
